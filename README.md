@@ -1,4 +1,4 @@
-# snake A* agent
+# snake game with A* agent
 
 This project was for COMP3106 with Professor Holden. Credits to [python-engineer](https://github.com/python-engineer/snake-ai-pytorch) for the template snake game logic.
 
